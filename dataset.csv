@@ -1,0 +1,501 @@
+Age_Group,Height_cm,Weight_kg,BMI,Meals_Per_Day,Physical_Activity,Occupation,Residence_Type,Diet_Type,Menstrual_Health,Health_Issues
+46-60,151,75,32.89329415376518,3,Moderate,Student,Rural,Vegan,No Issues,Diabetes
+60+,144,71,34.23996913580247,4,No Activity,Athlete,Coastal,Vegetarian,Irregular,Anemia
+18-30,155,59,24.55775234131113,2,Moderate,Homemaker,Urban,Vegetarian,Heavy Flow,No Issues
+46-60,168,82,29.053287981859416,5,Light,Self-Employed,Coastal,Non-Vegetarian,PCOS,Anemia
+46-60,162,48,18.289894833104707,1,Moderate,Office Worker,Coastal,Vegetarian,PCOS,Anemia
+60+,147,74,34.24499051321209,2,Light,Athlete,Mountain,Non-Vegetarian,Irregular,Anemia
+18-30,161,73,28.162493730951734,5,Heavy,Student,Rural,Vegan,PCOS,Anemia
+18-30,163,60,22.582709172343712,2,No Activity,Athlete,Rural,Vegan,Heavy Flow,Hypertension
+46-60,151,69,30.26183062146397,4,Heavy,Athlete,Rural,Non-Vegetarian,Irregular,No Issues
+31-45,161,46,17.746228926353147,4,Light,Athlete,Mountain,Vegan,PCOS,No Issues
+46-60,160,78,30.468749999999993,4,Light,Athlete,Mountain,Vegetarian,No Issues,No Issues
+46-60,148,62,28.305332359386416,1,Light,Office Worker,Rural,Vegetarian,No Issues,Anemia
+46-60,163,57,21.453573713726524,4,No Activity,Homemaker,Mountain,Vegetarian,Heavy Flow,Hypertension
+46-60,165,80,29.384756657483933,5,Moderate,Self-Employed,Mountain,Vegan,PCOS,Anemia
+60+,170,54,18.68512110726644,2,Heavy,Athlete,Mountain,Vegetarian,Heavy Flow,Anemia
+18-30,170,43,14.878892733564015,3,Heavy,Athlete,Rural,Vegan,Irregular,No Issues
+60+,146,41,19.23437793206981,5,Moderate,Athlete,Rural,Vegetarian,No Issues,Anemia
+60+,150,74,32.888888888888886,5,Heavy,Homemaker,Rural,Non-Vegetarian,Irregular,Diabetes
+60+,165,45,16.528925619834713,4,No Activity,Student,Mountain,Vegan,PCOS,Anemia
+46-60,165,91,33.425160697887975,1,Heavy,Student,Rural,Vegan,Heavy Flow,Diabetes
+31-45,165,33,12.121212121212123,2,Light,Office Worker,Mountain,Vegetarian,Heavy Flow,Anemia
+18-30,198,90,22.95684113865932,1,Moderate,Student,Urban,Vegan,Heavy Flow,Hypertension
+31-45,165,68,24.977043158861342,2,No Activity,Athlete,Mountain,Vegan,Irregular,Hypertension
+60+,171,63,21.545090797168363,2,Moderate,Athlete,Coastal,Non-Vegetarian,No Issues,No Issues
+60+,169,56,19.607156612163443,1,No Activity,Athlete,Rural,Non-Vegetarian,Irregular,Anemia
+31-45,166,70,25.402816083611555,5,Light,Office Worker,Rural,Vegetarian,Irregular,Diabetes
+31-45,156,64,26.298487836949374,2,Moderate,Athlete,Coastal,Non-Vegetarian,PCOS,Diabetes
+31-45,167,81,29.043708989207214,1,Heavy,Student,Mountain,Vegetarian,PCOS,Anemia
+60+,152,66,28.566481994459835,2,No Activity,Homemaker,Urban,Vegetarian,PCOS,Diabetes
+60+,157,67,27.18163008641324,3,Moderate,Homemaker,Coastal,Vegetarian,No Issues,Hypertension
+18-30,155,59,24.55775234131113,5,Heavy,Self-Employed,Coastal,Vegan,No Issues,Diabetes
+18-30,160,64,24.999999999999996,4,Moderate,Student,Mountain,Non-Vegetarian,PCOS,No Issues
+60+,183,69,20.603780345785182,2,Moderate,Athlete,Rural,Vegetarian,PCOS,Hypertension
+31-45,141,39,19.616719480911424,3,Moderate,Homemaker,Mountain,Non-Vegetarian,No Issues,Hypertension
+31-45,166,44,15.967484395412978,4,No Activity,Student,Coastal,Vegetarian,Heavy Flow,Hypertension
+18-30,143,76,37.16563157122598,4,Heavy,Homemaker,Coastal,Non-Vegetarian,No Issues,Anemia
+60+,155,67,27.887617065556707,2,Light,Athlete,Rural,Non-Vegetarian,No Issues,Anemia
+18-30,170,62,21.453287197231838,1,No Activity,Homemaker,Rural,Vegetarian,No Issues,Hypertension
+18-30,160,65,25.390624999999996,2,No Activity,Self-Employed,Rural,Vegan,PCOS,Anemia
+46-60,149,70,31.530111256249718,3,No Activity,Self-Employed,Mountain,Non-Vegetarian,Heavy Flow,Diabetes
+46-60,152,56,24.238227146814403,4,Light,Homemaker,Rural,Vegan,No Issues,Anemia
+46-60,166,53,19.233560749020178,2,Heavy,Student,Coastal,Vegan,PCOS,Anemia
+31-45,152,67,28.999307479224377,1,Heavy,Student,Coastal,Vegetarian,Irregular,Hypertension
+60+,162,50,19.05197378448407,2,Heavy,Student,Urban,Vegetarian,Irregular,No Issues
+60+,160,71,27.734374999999993,5,Moderate,Homemaker,Mountain,Vegetarian,No Issues,No Issues
+60+,153,39,16.660258874791747,1,Moderate,Student,Urban,Non-Vegetarian,Irregular,No Issues
+60+,181,80,24.41927902078691,3,Moderate,Athlete,Coastal,Vegetarian,Heavy Flow,Diabetes
+46-60,166,72,26.1286108288576,4,Light,Self-Employed,Urban,Vegetarian,Irregular,Anemia
+31-45,139,68,35.19486569018167,2,Moderate,Athlete,Coastal,Non-Vegetarian,Irregular,No Issues
+31-45,161,79,30.477219243084754,1,Light,Student,Urban,Non-Vegetarian,Heavy Flow,Hypertension
+46-60,153,89,38.01956512452475,5,Heavy,Athlete,Rural,Vegetarian,No Issues,No Issues
+31-45,168,80,28.344671201814062,1,Moderate,Student,Urban,Vegetarian,No Issues,No Issues
+46-60,152,37,16.014542936288088,5,Moderate,Homemaker,Rural,Vegetarian,Heavy Flow,Anemia
+60+,158,45,18.02595737862522,3,No Activity,Athlete,Rural,Vegetarian,Heavy Flow,Anemia
+46-60,165,55,20.202020202020204,4,Light,Homemaker,Mountain,Vegan,Heavy Flow,Anemia
+60+,168,65,23.030045351473927,3,Heavy,Homemaker,Rural,Vegan,Irregular,Diabetes
+60+,147,72,33.31945022907122,2,No Activity,Office Worker,Rural,Vegetarian,Heavy Flow,Diabetes
+18-30,156,54,22.189349112426033,1,No Activity,Student,Urban,Vegan,PCOS,No Issues
+46-60,155,67,27.887617065556707,5,Heavy,Self-Employed,Coastal,Non-Vegetarian,Irregular,Anemia
+18-30,153,53,22.64086462471699,5,No Activity,Student,Mountain,Vegan,No Issues,No Issues
+46-60,177,55,17.555619394171533,1,Light,Self-Employed,Rural,Vegan,No Issues,Hypertension
+46-60,164,43,15.987507436049974,1,Light,Student,Mountain,Vegetarian,No Issues,Hypertension
+18-30,147,51,23.601277245592115,2,Moderate,Homemaker,Urban,Vegan,Irregular,Anemia
+18-30,169,44,15.405623052414134,3,No Activity,Athlete,Rural,Vegan,PCOS,Anemia
+46-60,181,50,15.26204938799182,5,Moderate,Athlete,Urban,Vegan,Heavy Flow,Hypertension
+31-45,170,80,27.68166089965398,2,No Activity,Office Worker,Mountain,Vegan,Heavy Flow,Anemia
+60+,144,50,24.112654320987655,3,Light,Self-Employed,Urban,Non-Vegetarian,No Issues,Diabetes
+18-30,155,104,43.2882414151925,2,Light,Self-Employed,Mountain,Vegetarian,No Issues,Diabetes
+60+,172,72,24.337479718766904,5,Light,Self-Employed,Urban,Vegetarian,Irregular,Anemia
+31-45,152,67,28.999307479224377,1,No Activity,Homemaker,Mountain,Non-Vegetarian,PCOS,Hypertension
+31-45,164,52,19.333729922665082,1,Light,Self-Employed,Coastal,Vegan,Heavy Flow,No Issues
+31-45,167,75,26.89232313815483,3,No Activity,Athlete,Urban,Non-Vegetarian,Irregular,Anemia
+18-30,150,56,24.88888888888889,4,Moderate,Homemaker,Urban,Vegan,Heavy Flow,Anemia
+31-45,159,66,26.106562240417702,3,No Activity,Student,Coastal,Non-Vegetarian,No Issues,No Issues
+18-30,127,103,63.86012772025544,4,Moderate,Self-Employed,Coastal,Vegetarian,Heavy Flow,Anemia
+31-45,149,63,28.377100130624747,2,No Activity,Self-Employed,Urban,Vegetarian,PCOS,No Issues
+60+,157,82,33.26706965799829,2,Moderate,Student,Coastal,Vegetarian,PCOS,Hypertension
+60+,147,54,24.989587671803417,5,Light,Self-Employed,Rural,Vegan,No Issues,Diabetes
+46-60,176,64,20.66115702479339,4,Moderate,Student,Mountain,Vegan,PCOS,Hypertension
+60+,145,91,43.28180737217598,5,Light,Homemaker,Mountain,Non-Vegetarian,PCOS,Diabetes
+46-60,155,55,22.892819979188342,1,Light,Athlete,Mountain,Non-Vegetarian,Irregular,No Issues
+60+,161,92,35.492457852706295,4,Moderate,Student,Rural,Vegetarian,Heavy Flow,Diabetes
+18-30,174,75,24.772096710265558,3,No Activity,Office Worker,Coastal,Vegan,No Issues,Hypertension
+60+,145,56,26.634958382877528,1,No Activity,Student,Coastal,Non-Vegetarian,No Issues,Diabetes
+46-60,171,74,25.3069320474676,1,Heavy,Self-Employed,Urban,Vegan,No Issues,No Issues
+46-60,160,79,30.859374999999993,3,No Activity,Homemaker,Coastal,Vegan,No Issues,Diabetes
+31-45,150,74,32.888888888888886,1,Heavy,Homemaker,Urban,Vegetarian,No Issues,Anemia
+18-30,164,41,15.243902439024392,4,No Activity,Student,Rural,Vegetarian,PCOS,Hypertension
+60+,161,54,20.832529609197174,5,No Activity,Athlete,Mountain,Vegan,Irregular,Anemia
+31-45,153,61,26.05835362467427,1,Light,Office Worker,Mountain,Vegan,No Issues,No Issues
+60+,160,63,24.609374999999996,4,Heavy,Homemaker,Mountain,Vegan,Irregular,Diabetes
+60+,156,74,30.407626561472714,2,No Activity,Self-Employed,Coastal,Vegan,Irregular,Anemia
+31-45,161,67,25.847768218818715,4,Heavy,Self-Employed,Urban,Vegetarian,PCOS,Anemia
+31-45,166,44,15.967484395412978,5,Light,Athlete,Urban,Non-Vegetarian,No Issues,Diabetes
+31-45,175,70,22.857142857142858,4,Light,Homemaker,Rural,Vegetarian,PCOS,Diabetes
+31-45,147,74,34.24499051321209,3,Heavy,Student,Coastal,Non-Vegetarian,No Issues,Hypertension
+31-45,181,73,22.282592106468055,5,Light,Self-Employed,Rural,Vegan,PCOS,Anemia
+60+,140,81,41.3265306122449,2,Moderate,Athlete,Urban,Non-Vegetarian,Irregular,Anemia
+31-45,158,77,30.844415958980928,3,Moderate,Homemaker,Urban,Vegetarian,No Issues,No Issues
+18-30,165,71,26.07897153351699,4,Light,Homemaker,Mountain,Vegetarian,Heavy Flow,Hypertension
+46-60,162,63,24.005486968449926,5,Moderate,Homemaker,Coastal,Vegan,Irregular,No Issues
+31-45,153,40,17.087444999786406,2,No Activity,Homemaker,Urban,Vegetarian,Heavy Flow,Anemia
+31-45,157,71,28.804413972169254,3,Heavy,Homemaker,Mountain,Vegan,Irregular,No Issues
+60+,155,68,28.303850156087407,2,No Activity,Self-Employed,Coastal,Vegetarian,PCOS,Anemia
+31-45,154,69,29.094282341035587,4,Heavy,Athlete,Rural,Vegetarian,No Issues,Anemia
+31-45,168,45,15.94387755102041,2,Light,Homemaker,Coastal,Vegan,Irregular,No Issues
+31-45,163,48,18.06616733787497,1,No Activity,Office Worker,Coastal,Non-Vegetarian,PCOS,No Issues
+60+,153,80,34.17488999957281,3,Light,Office Worker,Urban,Vegetarian,No Issues,Diabetes
+31-45,168,64,22.67573696145125,2,Light,Athlete,Urban,Non-Vegetarian,No Issues,Diabetes
+46-60,163,75,28.228386465429637,4,Heavy,Student,Coastal,Vegetarian,Irregular,Diabetes
+60+,168,65,23.030045351473927,4,Heavy,Student,Urban,Vegetarian,No Issues,Anemia
+46-60,166,65,23.588329220496444,2,Heavy,Student,Urban,Vegetarian,Irregular,No Issues
+60+,151,79,34.64760317529933,4,No Activity,Office Worker,Urban,Vegetarian,No Issues,Hypertension
+31-45,154,57,24.034407151290267,5,Moderate,Student,Mountain,Non-Vegetarian,Heavy Flow,Anemia
+46-60,167,66,23.66524436157625,5,Heavy,Self-Employed,Mountain,Non-Vegetarian,PCOS,Hypertension
+60+,166,58,21.04804761213529,5,Heavy,Homemaker,Coastal,Vegetarian,Heavy Flow,No Issues
+18-30,159,58,22.942130453700404,1,No Activity,Office Worker,Urban,Vegetarian,Irregular,Anemia
+31-45,161,60,23.147255121330193,2,Heavy,Athlete,Mountain,Non-Vegetarian,Heavy Flow,Hypertension
+60+,172,68,22.985397512168742,1,No Activity,Athlete,Coastal,Vegan,Irregular,Hypertension
+18-30,154,57,24.034407151290267,4,Light,Homemaker,Urban,Vegan,No Issues,Diabetes
+60+,165,83,30.48668503213958,1,Heavy,Office Worker,Rural,Non-Vegetarian,No Issues,Diabetes
+18-30,157,51,20.690494543389182,4,Heavy,Student,Urban,Vegetarian,Irregular,Diabetes
+31-45,157,62,25.153150229218223,4,Light,Student,Urban,Vegetarian,Heavy Flow,Anemia
+46-60,170,58,20.06920415224914,3,Light,Self-Employed,Mountain,Vegan,No Issues,No Issues
+18-30,168,86,30.470521541950117,5,Light,Self-Employed,Coastal,Vegan,PCOS,No Issues
+60+,168,67,23.738662131519277,4,Heavy,Student,Coastal,Non-Vegetarian,No Issues,Diabetes
+31-45,173,80,26.729927495071667,3,Moderate,Athlete,Mountain,Vegan,PCOS,Diabetes
+18-30,160,42,16.406249999999996,5,Moderate,Athlete,Urban,Non-Vegetarian,Heavy Flow,Diabetes
+60+,166,69,25.039918710988534,4,Moderate,Self-Employed,Rural,Vegan,PCOS,Hypertension
+60+,156,78,32.05128205128205,4,Heavy,Homemaker,Urban,Vegan,PCOS,Diabetes
+60+,163,66,24.840980089578082,1,Light,Student,Urban,Vegan,PCOS,Hypertension
+18-30,158,80,32.046146450889275,1,Heavy,Self-Employed,Rural,Vegetarian,PCOS,No Issues
+18-30,160,57,22.265624999999996,5,Light,Self-Employed,Mountain,Vegetarian,No Issues,Anemia
+18-30,165,86,31.58861340679523,4,Heavy,Student,Coastal,Vegetarian,PCOS,Anemia
+46-60,151,99,43.41914828297004,2,Heavy,Student,Mountain,Vegan,No Issues,Anemia
+18-30,180,59,18.209876543209877,1,Light,Athlete,Mountain,Non-Vegetarian,PCOS,Anemia
+18-30,149,58,26.12494932660691,5,Moderate,Homemaker,Urban,Non-Vegetarian,Irregular,Hypertension
+18-30,147,86,39.798232218057294,4,Light,Homemaker,Coastal,Non-Vegetarian,Heavy Flow,Hypertension
+46-60,171,88,30.094730002393902,4,No Activity,Student,Coastal,Non-Vegetarian,PCOS,Diabetes
+18-30,167,57,20.43816558499767,2,No Activity,Office Worker,Mountain,Vegetarian,Irregular,Hypertension
+60+,166,58,21.04804761213529,5,Light,Self-Employed,Rural,Vegetarian,PCOS,Diabetes
+18-30,166,60,21.773842357381334,4,Heavy,Self-Employed,Mountain,Vegan,PCOS,Diabetes
+60+,159,44,17.404374826945133,1,No Activity,Student,Rural,Vegan,PCOS,Anemia
+60+,151,51,22.367440024560327,2,No Activity,Office Worker,Coastal,Non-Vegetarian,Irregular,Hypertension
+60+,160,49,19.140624999999996,5,Heavy,Athlete,Mountain,Vegetarian,Heavy Flow,Hypertension
+46-60,153,53,22.64086462471699,2,Heavy,Student,Urban,Non-Vegetarian,Irregular,Diabetes
+46-60,169,64,22.40817898532965,1,Moderate,Student,Mountain,Vegan,Heavy Flow,Diabetes
+46-60,158,68,27.239224483255885,5,Heavy,Self-Employed,Coastal,Vegan,PCOS,No Issues
+18-30,151,88,38.59479847375115,2,Light,Student,Urban,Non-Vegetarian,No Issues,No Issues
+60+,156,50,20.5456936226167,3,Light,Student,Urban,Vegan,PCOS,Diabetes
+46-60,164,79,29.372397382510414,1,Moderate,Student,Rural,Non-Vegetarian,Heavy Flow,No Issues
+46-60,154,61,25.72103221453871,1,No Activity,Self-Employed,Urban,Vegetarian,Irregular,No Issues
+18-30,151,64,28.068944344546292,1,No Activity,Athlete,Urban,Non-Vegetarian,PCOS,Diabetes
+46-60,162,75,28.577960676726104,3,Heavy,Athlete,Mountain,Vegetarian,Irregular,Diabetes
+18-30,162,48,18.289894833104707,3,Light,Student,Coastal,Vegetarian,Irregular,Hypertension
+31-45,154,70,29.515938606847698,4,No Activity,Self-Employed,Rural,Vegan,Irregular,Diabetes
+46-60,155,67,27.887617065556707,2,Moderate,Athlete,Mountain,Vegan,PCOS,Diabetes
+31-45,162,72,27.43484224965706,4,Moderate,Athlete,Urban,Vegan,Irregular,Anemia
+18-30,145,69,32.81807372175981,2,Light,Athlete,Urban,Non-Vegetarian,Irregular,Hypertension
+60+,145,101,48.03804994054697,3,Moderate,Self-Employed,Rural,Non-Vegetarian,PCOS,Hypertension
+46-60,152,55,23.80540166204986,3,Moderate,Self-Employed,Coastal,Vegan,Irregular,Hypertension
+18-30,157,57,23.124670372023203,4,Light,Student,Rural,Non-Vegetarian,PCOS,Anemia
+60+,163,55,20.70081674131507,5,Heavy,Homemaker,Mountain,Vegan,Heavy Flow,Diabetes
+60+,174,56,18.49649887699828,4,Heavy,Athlete,Rural,Non-Vegetarian,Heavy Flow,Hypertension
+31-45,168,55,19.48696145124717,2,Moderate,Homemaker,Urban,Vegetarian,Heavy Flow,Hypertension
+18-30,158,82,32.847300112161506,4,Heavy,Self-Employed,Mountain,Vegetarian,Irregular,No Issues
+60+,159,86,34.01764170721095,1,Heavy,Self-Employed,Urban,Vegan,No Issues,Hypertension
+46-60,149,56,25.224089004999776,2,Moderate,Self-Employed,Coastal,Non-Vegetarian,No Issues,Diabetes
+46-60,159,52,20.56880661366243,2,Heavy,Homemaker,Urban,Non-Vegetarian,Irregular,Diabetes
+31-45,157,72,29.21010994360826,5,Moderate,Self-Employed,Urban,Vegetarian,No Issues,No Issues
+60+,163,56,21.077195227520797,3,No Activity,Student,Rural,Vegetarian,PCOS,Hypertension
+18-30,151,74,32.45471689838165,2,Light,Self-Employed,Urban,Vegan,No Issues,Hypertension
+46-60,165,68,24.977043158861342,3,Light,Office Worker,Mountain,Vegetarian,Irregular,Hypertension
+60+,175,42,13.714285714285714,4,Heavy,Homemaker,Mountain,Vegan,Irregular,Anemia
+60+,158,88,35.250761095978206,1,Heavy,Office Worker,Coastal,Vegetarian,PCOS,Hypertension
+31-45,164,91,33.834027364663896,5,Heavy,Self-Employed,Mountain,Vegetarian,Heavy Flow,Diabetes
+46-60,166,55,19.959355494266223,3,Light,Student,Rural,Non-Vegetarian,Irregular,Diabetes
+46-60,155,59,24.55775234131113,2,No Activity,Athlete,Coastal,Vegetarian,PCOS,Anemia
+18-30,162,69,26.291723822588015,3,No Activity,Self-Employed,Mountain,Vegetarian,No Issues,Anemia
+46-60,160,70,27.343749999999996,2,Light,Student,Rural,Vegan,No Issues,Hypertension
+18-30,160,74,28.906249999999993,3,No Activity,Homemaker,Mountain,Vegetarian,PCOS,No Issues
+46-60,152,95,41.11842105263158,2,Light,Office Worker,Mountain,Vegan,PCOS,Anemia
+31-45,160,62,24.218749999999996,4,No Activity,Office Worker,Urban,Vegetarian,Irregular,Anemia
+46-60,164,53,19.705532421177875,2,Moderate,Office Worker,Mountain,Vegetarian,No Issues,Hypertension
+18-30,174,44,14.532963403355794,2,Moderate,Homemaker,Mountain,Vegan,PCOS,Hypertension
+18-30,169,54,18.906901018871892,1,Light,Student,Rural,Non-Vegetarian,No Issues,Anemia
+31-45,181,64,19.53542321662953,2,No Activity,Homemaker,Rural,Vegan,PCOS,No Issues
+46-60,152,91,39.387119113573405,1,Heavy,Office Worker,Urban,Vegan,No Issues,Anemia
+46-60,168,57,20.19557823129252,5,No Activity,Self-Employed,Mountain,Vegan,Heavy Flow,Hypertension
+31-45,161,68,26.23355580417422,1,Moderate,Athlete,Urban,Non-Vegetarian,Irregular,Hypertension
+46-60,181,64,19.53542321662953,4,Moderate,Homemaker,Mountain,Vegetarian,No Issues,Anemia
+46-60,151,82,35.963334941449936,1,No Activity,Homemaker,Coastal,Vegan,Heavy Flow,No Issues
+18-30,151,102,44.734880049120655,5,No Activity,Student,Coastal,Vegan,No Issues,Anemia
+46-60,154,57,24.034407151290267,4,Heavy,Student,Urban,Non-Vegetarian,No Issues,Anemia
+46-60,138,57,29.9306868304978,3,Heavy,Homemaker,Urban,Vegan,Heavy Flow,Hypertension
+31-45,154,80,33.732501264968796,3,No Activity,Office Worker,Urban,Vegetarian,No Issues,No Issues
+31-45,152,75,32.46191135734072,1,No Activity,Athlete,Rural,Non-Vegetarian,No Issues,Diabetes
+60+,161,92,35.492457852706295,1,No Activity,Student,Rural,Vegetarian,Irregular,No Issues
+18-30,163,73,27.475629493018182,5,No Activity,Office Worker,Rural,Vegetarian,Heavy Flow,Anemia
+46-60,178,59,18.621386188612547,5,Light,Self-Employed,Urban,Non-Vegetarian,Heavy Flow,Anemia
+46-60,169,73,25.55932915514163,2,No Activity,Student,Mountain,Vegan,PCOS,Anemia
+60+,154,81,34.15415753078091,5,Heavy,Office Worker,Coastal,Vegetarian,No Issues,No Issues
+46-60,151,77,33.77044866453226,2,Moderate,Office Worker,Urban,Vegetarian,Irregular,Hypertension
+18-30,164,72,26.769779892920884,4,Light,Athlete,Rural,Vegetarian,No Issues,Anemia
+60+,146,81,37.999624695064746,1,No Activity,Athlete,Rural,Vegetarian,No Issues,Anemia
+18-30,178,82,25.88057063502083,4,Moderate,Self-Employed,Urban,Non-Vegetarian,PCOS,No Issues
+60+,171,85,29.06877329776684,5,Light,Office Worker,Urban,Non-Vegetarian,No Issues,Diabetes
+60+,155,74,30.80124869927159,4,Moderate,Office Worker,Rural,Vegetarian,Irregular,Diabetes
+31-45,142,62,30.7478674866098,4,No Activity,Athlete,Mountain,Vegan,Irregular,Hypertension
+18-30,173,67,22.386314277122523,4,No Activity,Student,Rural,Vegetarian,PCOS,Hypertension
+46-60,158,83,33.247876942797625,5,Heavy,Student,Rural,Vegan,No Issues,Anemia
+46-60,172,52,17.577068685776098,4,No Activity,Homemaker,Urban,Vegetarian,Irregular,No Issues
+18-30,144,70,33.757716049382715,2,No Activity,Athlete,Mountain,Vegan,No Issues,Anemia
+46-60,154,59,24.87771968291449,5,Light,Homemaker,Rural,Vegetarian,No Issues,Hypertension
+46-60,160,65,25.390624999999996,4,Heavy,Athlete,Rural,Vegan,No Issues,No Issues
+18-30,160,84,32.81249999999999,5,Light,Self-Employed,Coastal,Vegetarian,PCOS,No Issues
+60+,155,67,27.887617065556707,3,Moderate,Office Worker,Urban,Vegetarian,No Issues,Hypertension
+18-30,166,65,23.588329220496444,2,No Activity,Self-Employed,Coastal,Vegan,Irregular,Diabetes
+60+,149,44,19.818927075356967,4,Moderate,Athlete,Coastal,Non-Vegetarian,No Issues,Diabetes
+46-60,158,76,30.443839128344813,3,Light,Office Worker,Rural,Vegan,Irregular,No Issues
+46-60,161,74,28.54828131630724,3,No Activity,Student,Urban,Non-Vegetarian,No Issues,Anemia
+46-60,165,97,35.62901744719927,5,No Activity,Student,Mountain,Vegetarian,Irregular,Diabetes
+31-45,167,60,21.513858510523864,3,Light,Homemaker,Rural,Vegan,Irregular,Anemia
+60+,148,68,31.0445580715851,2,Light,Athlete,Mountain,Vegan,No Issues,Diabetes
+31-45,144,68,32.79320987654321,2,Light,Athlete,Mountain,Vegan,No Issues,Diabetes
+31-45,172,88,29.745808545159548,1,Light,Student,Urban,Non-Vegetarian,Irregular,Anemia
+18-30,163,63,23.711844630960897,2,Light,Self-Employed,Coastal,Non-Vegetarian,Heavy Flow,Hypertension
+31-45,152,69,29.864958448753463,3,No Activity,Office Worker,Urban,Vegetarian,PCOS,Diabetes
+18-30,175,74,24.163265306122447,2,Light,Self-Employed,Mountain,Non-Vegetarian,Heavy Flow,Diabetes
+18-30,161,67,25.847768218818715,5,No Activity,Self-Employed,Rural,Non-Vegetarian,Heavy Flow,Anemia
+31-45,171,58,19.835162956123252,1,No Activity,Student,Mountain,Vegetarian,No Issues,Hypertension
+60+,160,67,26.171874999999996,3,Light,Student,Rural,Vegan,PCOS,Diabetes
+60+,180,81,25.0,1,Light,Student,Rural,Vegan,Heavy Flow,Diabetes
+60+,177,49,15.640460914807365,3,Heavy,Homemaker,Urban,Vegetarian,No Issues,Hypertension
+60+,157,66,26.775934114974238,5,No Activity,Self-Employed,Mountain,Vegan,Heavy Flow,Diabetes
+60+,169,54,18.906901018871892,1,Light,Athlete,Coastal,Non-Vegetarian,Heavy Flow,Hypertension
+31-45,166,82,29.757584555087824,4,Light,Office Worker,Mountain,Vegetarian,No Issues,Hypertension
+31-45,173,42,14.033211934912625,3,Light,Homemaker,Mountain,Vegetarian,No Issues,Anemia
+46-60,150,56,24.88888888888889,4,Heavy,Athlete,Coastal,Vegetarian,No Issues,No Issues
+60+,166,70,25.402816083611555,1,Heavy,Self-Employed,Urban,Vegan,PCOS,Hypertension
+31-45,170,88,30.449826989619382,4,Moderate,Student,Mountain,Vegetarian,Heavy Flow,Anemia
+46-60,142,64,31.739734179726245,4,No Activity,Self-Employed,Mountain,Vegetarian,No Issues,No Issues
+60+,148,56,25.56610664718773,1,Moderate,Office Worker,Rural,Vegetarian,Irregular,Diabetes
+18-30,139,93,48.134154546866114,5,Light,Homemaker,Mountain,Vegan,Heavy Flow,No Issues
+46-60,157,43,17.444926771877153,4,Heavy,Homemaker,Coastal,Non-Vegetarian,Irregular,Hypertension
+31-45,167,32,11.474057872279394,4,Heavy,Office Worker,Rural,Vegetarian,PCOS,Hypertension
+18-30,175,71,23.183673469387756,5,Moderate,Athlete,Urban,Non-Vegetarian,No Issues,Hypertension
+18-30,160,57,22.265624999999996,4,Heavy,Athlete,Rural,Vegan,Irregular,Hypertension
+18-30,176,49,15.81869834710744,4,Light,Homemaker,Coastal,Vegan,PCOS,Hypertension
+46-60,146,75,35.1848376806155,4,Heavy,Homemaker,Coastal,Vegan,No Issues,Anemia
+31-45,142,68,33.72346756595913,2,Moderate,Student,Rural,Vegan,Irregular,Hypertension
+18-30,159,56,22.151022507021082,5,Light,Athlete,Urban,Non-Vegetarian,Irregular,Anemia
+60+,163,45,16.937031879257784,4,Moderate,Office Worker,Rural,Vegetarian,PCOS,Diabetes
+18-30,159,78,30.853209920493647,5,Heavy,Athlete,Urban,Vegan,No Issues,Hypertension
+18-30,139,74,38.30029501578594,3,Moderate,Student,Rural,Vegan,No Issues,Hypertension
+46-60,159,63,24.919900320398717,3,Moderate,Homemaker,Coastal,Non-Vegetarian,Irregular,No Issues
+46-60,146,92,43.16006755488835,4,No Activity,Homemaker,Mountain,Non-Vegetarian,Irregular,Diabetes
+31-45,166,48,17.419073885905068,5,Heavy,Student,Mountain,Vegan,Irregular,Hypertension
+60+,163,42,15.807896420640597,5,Heavy,Office Worker,Urban,Vegetarian,No Issues,Hypertension
+46-60,150,54,24.0,5,Moderate,Homemaker,Urban,Vegetarian,PCOS,Diabetes
+18-30,154,64,26.986001011975038,2,No Activity,Self-Employed,Urban,Vegan,PCOS,Anemia
+31-45,149,68,30.629250934642585,3,Heavy,Homemaker,Coastal,Non-Vegetarian,No Issues,Hypertension
+18-30,159,61,24.128792373719392,5,Light,Self-Employed,Rural,Vegan,Heavy Flow,No Issues
+18-30,169,70,24.508945765204302,5,Moderate,Student,Coastal,Vegan,PCOS,Hypertension
+46-60,150,46,20.444444444444443,2,Heavy,Student,Mountain,Non-Vegetarian,Irregular,No Issues
+31-45,165,86,31.58861340679523,2,Light,Homemaker,Urban,Vegan,Heavy Flow,No Issues
+60+,154,63,26.564344746162927,5,Heavy,Athlete,Rural,Vegan,Heavy Flow,Hypertension
+60+,152,81,35.05886426592798,1,Light,Self-Employed,Mountain,Vegan,PCOS,Hypertension
+46-60,158,70,28.040378144528116,5,Moderate,Office Worker,Mountain,Non-Vegetarian,Heavy Flow,No Issues
+46-60,149,71,31.980541417053285,5,Heavy,Homemaker,Mountain,Vegetarian,Heavy Flow,Diabetes
+31-45,154,73,30.78090740428403,2,Heavy,Office Worker,Coastal,Vegetarian,PCOS,Diabetes
+60+,148,71,32.414170927684445,2,No Activity,Homemaker,Urban,Non-Vegetarian,PCOS,Hypertension
+60+,179,74,23.095409007209515,5,Moderate,Athlete,Mountain,Vegetarian,Heavy Flow,Anemia
+60+,160,84,32.81249999999999,5,Light,Athlete,Urban,Vegan,Irregular,Diabetes
+18-30,153,67,28.621470374642232,5,Heavy,Athlete,Coastal,Vegetarian,No Issues,Hypertension
+60+,162,75,28.577960676726104,2,Heavy,Athlete,Mountain,Vegan,Heavy Flow,Diabetes
+18-30,158,63,25.236340330075304,5,Light,Student,Coastal,Vegetarian,Heavy Flow,Anemia
+31-45,157,86,34.889853543754306,5,Moderate,Student,Coastal,Non-Vegetarian,Irregular,Hypertension
+18-30,166,54,19.5964581216432,4,No Activity,Self-Employed,Urban,Vegetarian,Heavy Flow,Anemia
+31-45,167,92,32.987916382803256,1,No Activity,Office Worker,Mountain,Vegetarian,Heavy Flow,Hypertension
+60+,154,64,26.986001011975038,3,Heavy,Homemaker,Coastal,Vegetarian,No Issues,Anemia
+60+,154,43,18.13121942992073,1,Light,Homemaker,Mountain,Non-Vegetarian,No Issues,Diabetes
+31-45,157,66,26.775934114974238,4,Heavy,Student,Urban,Vegetarian,No Issues,Diabetes
+46-60,136,54,29.1955017301038,3,Light,Homemaker,Coastal,Non-Vegetarian,PCOS,Anemia
+31-45,144,77,37.13348765432099,5,No Activity,Student,Urban,Vegan,PCOS,Anemia
+46-60,173,55,18.376825152861773,4,Moderate,Self-Employed,Mountain,Vegetarian,No Issues,Anemia
+18-30,176,58,18.72417355371901,5,Light,Office Worker,Mountain,Non-Vegetarian,No Issues,Hypertension
+18-30,157,36,14.60505497180413,2,No Activity,Self-Employed,Urban,Non-Vegetarian,PCOS,Diabetes
+18-30,165,58,21.30394857667585,4,Heavy,Athlete,Rural,Vegetarian,Irregular,Hypertension
+60+,163,28,10.538597613760398,2,Light,Athlete,Coastal,Vegan,Heavy Flow,Diabetes
+18-30,190,41,11.357340720221607,4,Moderate,Athlete,Mountain,Non-Vegetarian,Heavy Flow,No Issues
+46-60,171,76,25.990903183885642,4,Heavy,Self-Employed,Mountain,Vegetarian,No Issues,Hypertension
+18-30,158,76,30.443839128344813,2,Heavy,Homemaker,Coastal,Vegan,Irregular,Diabetes
+31-45,150,71,31.555555555555557,3,No Activity,Office Worker,Urban,Non-Vegetarian,PCOS,Diabetes
+31-45,143,50,24.451073402122358,1,Light,Athlete,Urban,Non-Vegetarian,No Issues,Hypertension
+60+,162,64,24.38652644413961,5,Heavy,Athlete,Urban,Vegan,Irregular,Hypertension
+31-45,152,64,27.700831024930746,4,Moderate,Athlete,Rural,Vegan,Irregular,Diabetes
+46-60,145,47,22.35434007134364,5,Light,Office Worker,Rural,Vegetarian,Irregular,Hypertension
+18-30,153,87,37.165192874535435,2,Moderate,Athlete,Mountain,Vegetarian,PCOS,Anemia
+60+,149,78,35.13355254267826,5,Heavy,Office Worker,Urban,Non-Vegetarian,PCOS,Hypertension
+18-30,176,61,19.692665289256198,2,Moderate,Athlete,Coastal,Vegan,Heavy Flow,Hypertension
+18-30,168,65,23.030045351473927,5,No Activity,Self-Employed,Mountain,Vegan,Heavy Flow,Hypertension
+46-60,159,68,26.897670187097027,1,Moderate,Self-Employed,Coastal,Vegan,Irregular,Diabetes
+31-45,174,34,11.230017175320386,1,Light,Office Worker,Mountain,Non-Vegetarian,Irregular,Anemia
+31-45,160,61,23.828124999999996,1,Moderate,Self-Employed,Rural,Vegan,PCOS,No Issues
+18-30,151,54,23.683171790710933,1,Moderate,Office Worker,Mountain,Vegan,Heavy Flow,No Issues
+60+,175,49,16.0,1,No Activity,Self-Employed,Rural,Non-Vegetarian,Irregular,Anemia
+31-45,165,60,22.03856749311295,1,Moderate,Self-Employed,Mountain,Vegetarian,Heavy Flow,Anemia
+60+,149,91,40.98914463312463,2,Moderate,Office Worker,Urban,Vegetarian,Heavy Flow,Anemia
+31-45,158,74,29.642685467072578,4,Heavy,Homemaker,Coastal,Non-Vegetarian,Irregular,Diabetes
+60+,151,56,24.560326301478007,5,Heavy,Self-Employed,Urban,Vegan,PCOS,No Issues
+46-60,146,73,34.24657534246576,1,Light,Athlete,Mountain,Non-Vegetarian,Irregular,Anemia
+60+,169,85,29.76086271489094,2,Heavy,Homemaker,Mountain,Vegetarian,Irregular,Diabetes
+46-60,179,78,24.343809494085704,2,Heavy,Office Worker,Mountain,Vegetarian,Heavy Flow,No Issues
+46-60,146,65,30.49352598986677,2,Heavy,Homemaker,Rural,Non-Vegetarian,Irregular,Hypertension
+60+,165,55,20.202020202020204,4,Heavy,Student,Coastal,Non-Vegetarian,PCOS,Diabetes
+46-60,153,75,32.038959374599514,5,No Activity,Student,Coastal,Vegetarian,Irregular,No Issues
+18-30,155,70,29.1363163371488,4,Heavy,Self-Employed,Mountain,Non-Vegetarian,PCOS,Diabetes
+46-60,154,78,32.889188733344575,3,No Activity,Self-Employed,Mountain,Vegetarian,PCOS,No Issues
+31-45,151,74,32.45471689838165,2,No Activity,Athlete,Rural,Non-Vegetarian,Heavy Flow,No Issues
+60+,160,80,31.249999999999993,3,Heavy,Homemaker,Urban,Non-Vegetarian,No Issues,Hypertension
+18-30,151,56,24.560326301478007,1,Moderate,Student,Urban,Non-Vegetarian,No Issues,Diabetes
+60+,162,84,32.00731595793324,1,No Activity,Self-Employed,Coastal,Vegetarian,Heavy Flow,Anemia
+31-45,159,67,26.502116213757365,4,Moderate,Homemaker,Rural,Non-Vegetarian,Irregular,Hypertension
+31-45,157,96,38.946813258144346,5,Moderate,Self-Employed,Mountain,Vegetarian,Heavy Flow,Hypertension
+31-45,150,54,24.0,3,Heavy,Self-Employed,Coastal,Vegetarian,PCOS,No Issues
+46-60,154,91,38.370720188902006,5,Light,Student,Rural,Non-Vegetarian,No Issues,Anemia
+46-60,167,67,24.023808670084982,4,Heavy,Student,Urban,Non-Vegetarian,Heavy Flow,Diabetes
+60+,165,55,20.202020202020204,1,Light,Self-Employed,Rural,Vegetarian,Irregular,Anemia
+60+,150,57,25.333333333333332,5,Light,Office Worker,Urban,Vegetarian,Heavy Flow,Anemia
+18-30,160,60,23.437499999999996,5,Heavy,Self-Employed,Rural,Vegan,No Issues,Anemia
+18-30,167,71,25.458065904119906,1,Heavy,Self-Employed,Coastal,Vegetarian,Heavy Flow,Anemia
+60+,143,72,35.20954569905619,3,Light,Athlete,Urban,Vegan,Heavy Flow,Anemia
+46-60,165,56,20.569329660238754,1,Heavy,Athlete,Coastal,Vegan,No Issues,No Issues
+31-45,153,64,27.339911999658252,5,Light,Athlete,Coastal,Vegan,PCOS,No Issues
+60+,165,97,35.62901744719927,3,Moderate,Office Worker,Urban,Non-Vegetarian,PCOS,Hypertension
+18-30,152,90,38.95429362880886,3,Heavy,Office Worker,Urban,Non-Vegetarian,No Issues,No Issues
+46-60,141,71,35.71248931140285,1,Moderate,Self-Employed,Mountain,Vegetarian,Heavy Flow,Hypertension
+60+,143,65,31.786395422759064,5,No Activity,Athlete,Mountain,Vegan,No Issues,Hypertension
+60+,160,66,25.781249999999996,4,Moderate,Office Worker,Mountain,Non-Vegetarian,PCOS,Diabetes
+46-60,162,74,28.19692120103642,5,Moderate,Student,Coastal,Non-Vegetarian,Irregular,Anemia
+60+,150,49,21.77777777777778,2,Light,Self-Employed,Coastal,Non-Vegetarian,Heavy Flow,No Issues
+46-60,166,61,22.136739730004358,4,Moderate,Homemaker,Mountain,Non-Vegetarian,PCOS,Diabetes
+31-45,143,39,19.07183725365544,3,Heavy,Self-Employed,Coastal,Non-Vegetarian,Heavy Flow,No Issues
+46-60,159,70,27.688778133776353,4,Light,Homemaker,Coastal,Vegan,No Issues,Hypertension
+46-60,147,74,34.24499051321209,3,No Activity,Athlete,Urban,Vegan,Irregular,No Issues
+46-60,153,57,24.34960912469563,3,Heavy,Homemaker,Urban,Vegan,No Issues,Anemia
+60+,160,88,34.37499999999999,4,No Activity,Athlete,Coastal,Vegan,Irregular,Hypertension
+60+,151,46,20.174553747642648,3,Moderate,Student,Mountain,Vegetarian,Heavy Flow,Hypertension
+46-60,156,43,17.66929651545036,3,Heavy,Homemaker,Rural,Vegan,Heavy Flow,Diabetes
+60+,170,68,23.529411764705884,2,Heavy,Self-Employed,Mountain,Non-Vegetarian,No Issues,Anemia
+18-30,154,80,33.732501264968796,5,No Activity,Athlete,Rural,Vegan,Irregular,Hypertension
+18-30,168,90,31.88775510204082,5,Heavy,Self-Employed,Mountain,Vegetarian,Irregular,Anemia
+60+,148,58,26.47918188458729,2,Heavy,Office Worker,Urban,Non-Vegetarian,Heavy Flow,No Issues
+60+,165,81,29.752066115702483,4,Heavy,Athlete,Coastal,Vegan,No Issues,Anemia
+46-60,174,64,21.13885585942661,1,Moderate,Homemaker,Coastal,Vegan,Irregular,Hypertension
+31-45,135,62,34.01920438957475,1,No Activity,Athlete,Urban,Vegan,Heavy Flow,Diabetes
+60+,152,78,33.76038781163435,1,Heavy,Self-Employed,Rural,Non-Vegetarian,PCOS,Hypertension
+18-30,165,74,27.180899908172638,2,Light,Student,Rural,Non-Vegetarian,No Issues,Anemia
+46-60,157,41,16.633534828999146,2,Light,Athlete,Rural,Vegetarian,PCOS,Anemia
+60+,163,87,32.74492829989838,3,Light,Homemaker,Urban,Non-Vegetarian,No Issues,Hypertension
+18-30,153,85,36.31082062454612,1,Light,Office Worker,Rural,Non-Vegetarian,Heavy Flow,Anemia
+18-30,160,55,21.484374999999996,4,Moderate,Student,Urban,Vegan,Irregular,No Issues
+31-45,158,70,28.040378144528116,4,Heavy,Office Worker,Mountain,Non-Vegetarian,Irregular,Hypertension
+46-60,171,72,24.622960911049557,1,No Activity,Athlete,Mountain,Vegan,Irregular,Diabetes
+46-60,162,68,25.910684346898332,1,Heavy,Self-Employed,Urban,Vegan,No Issues,Hypertension
+31-45,163,56,21.077195227520797,1,Moderate,Self-Employed,Coastal,Non-Vegetarian,Heavy Flow,No Issues
+31-45,155,54,22.476586888657646,2,Light,Homemaker,Mountain,Vegetarian,PCOS,No Issues
+46-60,155,64,26.638917793964616,2,Moderate,Self-Employed,Rural,Vegetarian,Heavy Flow,No Issues
+46-60,155,82,34.131113423517164,2,Heavy,Student,Urban,Non-Vegetarian,PCOS,No Issues
+60+,163,73,27.475629493018182,5,No Activity,Self-Employed,Rural,Vegetarian,No Issues,No Issues
+60+,155,59,24.55775234131113,4,Moderate,Homemaker,Rural,Vegan,No Issues,Diabetes
+31-45,162,76,28.959000152415786,4,No Activity,Athlete,Coastal,Vegan,PCOS,Anemia
+60+,180,22,6.790123456790123,3,Moderate,Athlete,Rural,Non-Vegetarian,PCOS,No Issues
+18-30,168,82,29.053287981859416,2,No Activity,Self-Employed,Coastal,Vegetarian,PCOS,No Issues
+60+,156,38,15.61472715318869,5,No Activity,Office Worker,Mountain,Vegetarian,Heavy Flow,Hypertension
+60+,172,59,19.94321254732288,5,Light,Athlete,Urban,Vegan,PCOS,Diabetes
+18-30,155,48,19.979188345473464,4,No Activity,Self-Employed,Rural,Non-Vegetarian,No Issues,Diabetes
+31-45,139,45,23.290719942031988,2,Light,Homemaker,Urban,Vegetarian,No Issues,Anemia
+18-30,149,82,36.93527318589253,3,Heavy,Self-Employed,Rural,Non-Vegetarian,Irregular,Diabetes
+60+,141,57,28.67059001056285,2,Heavy,Athlete,Urban,Vegetarian,PCOS,Hypertension
+31-45,156,70,28.763971071663377,1,Light,Homemaker,Rural,Vegan,Heavy Flow,Hypertension
+60+,160,64,24.999999999999996,2,Light,Self-Employed,Rural,Vegan,Heavy Flow,Anemia
+18-30,176,72,23.243801652892564,1,Moderate,Student,Rural,Non-Vegetarian,Heavy Flow,Hypertension
+18-30,163,66,24.840980089578082,1,Moderate,Homemaker,Rural,Vegan,Irregular,No Issues
+60+,157,45,18.25631871475516,3,Moderate,Student,Rural,Vegetarian,No Issues,No Issues
+46-60,168,79,27.99036281179139,4,Heavy,Office Worker,Rural,Vegan,Heavy Flow,Hypertension
+46-60,137,57,30.36922585113751,2,Moderate,Homemaker,Rural,Non-Vegetarian,No Issues,Anemia
+18-30,162,41,15.622618503276936,1,No Activity,Student,Rural,Non-Vegetarian,Irregular,Diabetes
+18-30,167,58,20.796729893506402,2,No Activity,Athlete,Rural,Non-Vegetarian,PCOS,Anemia
+46-60,145,87,41.37931034482759,4,Moderate,Athlete,Urban,Vegetarian,PCOS,Diabetes
+46-60,171,77,26.332888752094664,4,No Activity,Office Worker,Coastal,Vegetarian,PCOS,Hypertension
+60+,163,59,22.20633068613798,5,Heavy,Homemaker,Rural,Vegetarian,Heavy Flow,Hypertension
+60+,155,59,24.55775234131113,4,No Activity,Homemaker,Coastal,Vegetarian,PCOS,No Issues
+46-60,166,60,21.773842357381334,3,Heavy,Homemaker,Rural,Vegetarian,Heavy Flow,Diabetes
+60+,182,96,28.982007003985025,1,Light,Office Worker,Rural,Vegan,Irregular,Anemia
+60+,161,70,27.005130974885226,5,Light,Homemaker,Urban,Vegetarian,Irregular,Hypertension
+31-45,162,71,27.053802773967377,3,Light,Athlete,Mountain,Vegetarian,Heavy Flow,Anemia
+60+,155,80,33.29864724245577,2,Light,Student,Mountain,Vegan,No Issues,No Issues
+18-30,151,68,29.823253366080436,1,No Activity,Athlete,Urban,Vegetarian,PCOS,Diabetes
+60+,168,61,21.612811791383223,4,Moderate,Athlete,Coastal,Non-Vegetarian,PCOS,Diabetes
+60+,151,62,27.19178983377922,1,No Activity,Student,Mountain,Vegetarian,PCOS,Hypertension
+46-60,160,63,24.609374999999996,2,Heavy,Athlete,Urban,Vegetarian,Heavy Flow,Diabetes
+18-30,155,64,26.638917793964616,5,No Activity,Office Worker,Urban,Non-Vegetarian,Irregular,Hypertension
+60+,164,75,27.885187388459254,5,No Activity,Student,Mountain,Non-Vegetarian,PCOS,No Issues
+60+,163,65,24.46460160337235,5,Heavy,Athlete,Coastal,Non-Vegetarian,Irregular,Diabetes
+31-45,170,75,25.95155709342561,4,Light,Self-Employed,Urban,Non-Vegetarian,PCOS,Hypertension
+60+,154,63,26.564344746162927,3,Light,Athlete,Rural,Vegetarian,PCOS,Anemia
+60+,157,66,26.775934114974238,3,Light,Office Worker,Coastal,Non-Vegetarian,Heavy Flow,Hypertension
+31-45,150,35,15.555555555555555,1,Moderate,Homemaker,Coastal,Non-Vegetarian,No Issues,Diabetes
+46-60,155,78,32.46618106139438,4,Heavy,Athlete,Mountain,Vegan,Heavy Flow,No Issues
+60+,163,70,26.346494034400994,5,Heavy,Homemaker,Mountain,Non-Vegetarian,PCOS,Diabetes
+31-45,167,79,28.326580372189753,5,No Activity,Self-Employed,Rural,Non-Vegetarian,PCOS,Diabetes
+18-30,150,21,9.333333333333334,2,Moderate,Athlete,Urban,Vegan,No Issues,Hypertension
+46-60,168,96,34.013605442176875,2,Light,Student,Mountain,Vegan,Irregular,Anemia
+18-30,173,62,20.715693808680545,5,Moderate,Homemaker,Mountain,Vegetarian,Irregular,Diabetes
+18-30,164,81,30.116002379535995,5,Heavy,Self-Employed,Coastal,Vegan,PCOS,Anemia
+31-45,178,49,15.465219038000251,4,Heavy,Student,Mountain,Vegetarian,Irregular,Hypertension
+60+,152,74,32.029085872576175,3,No Activity,Student,Mountain,Vegan,PCOS,Anemia
+31-45,147,49,22.67573696145125,2,No Activity,Student,Mountain,Vegan,No Issues,Hypertension
+31-45,142,55,27.276334060702244,3,Heavy,Student,Mountain,Vegetarian,No Issues,No Issues
+31-45,174,93,30.71739992072929,4,Light,Athlete,Coastal,Vegan,PCOS,Anemia
+31-45,166,62,22.49963710262738,5,Light,Athlete,Rural,Vegetarian,No Issues,Anemia
+46-60,159,68,26.897670187097027,3,Moderate,Athlete,Rural,Vegan,Heavy Flow,No Issues
+60+,162,78,29.721079103795148,5,Heavy,Self-Employed,Urban,Non-Vegetarian,Heavy Flow,Anemia
+18-30,148,72,32.87070854638422,5,Heavy,Self-Employed,Mountain,Vegan,No Issues,No Issues
+18-30,184,67,19.78969754253308,1,Light,Self-Employed,Coastal,Vegetarian,PCOS,Diabetes
+60+,161,70,27.005130974885226,3,Light,Office Worker,Urban,Vegan,PCOS,Hypertension
+18-30,161,101,38.96454612090582,3,Heavy,Self-Employed,Urban,Vegetarian,No Issues,No Issues
+60+,167,64,22.948115744558788,5,No Activity,Athlete,Rural,Vegetarian,Irregular,Anemia
+18-30,164,68,25.282569898869724,4,Heavy,Athlete,Coastal,Non-Vegetarian,Heavy Flow,No Issues
+31-45,162,80,30.48315805517451,1,Heavy,Office Worker,Coastal,Non-Vegetarian,Irregular,Anemia
+18-30,152,81,35.05886426592798,5,Light,Office Worker,Coastal,Vegetarian,PCOS,Diabetes
+60+,164,82,30.487804878048784,2,Light,Self-Employed,Rural,Vegan,PCOS,No Issues
+60+,178,74,23.355636914530994,2,No Activity,Homemaker,Rural,Vegetarian,Irregular,Diabetes
+60+,173,47,15.703832403354605,1,No Activity,Office Worker,Rural,Vegetarian,No Issues,Hypertension
+60+,175,89,29.06122448979592,4,Moderate,Student,Rural,Vegan,Irregular,Anemia
+60+,154,47,19.81784449316917,5,Heavy,Athlete,Rural,Vegan,Irregular,Anemia
+46-60,150,69,30.666666666666668,3,Light,Student,Mountain,Vegan,Heavy Flow,Diabetes
+46-60,158,53,21.230572023714146,1,No Activity,Athlete,Mountain,Vegan,Heavy Flow,Hypertension
+18-30,160,64,24.999999999999996,4,Moderate,Athlete,Coastal,Vegetarian,Irregular,No Issues
+60+,170,69,23.87543252595156,3,Moderate,Office Worker,Urban,Vegetarian,Irregular,No Issues
+18-30,143,69,33.74248129492885,2,Light,Office Worker,Coastal,Non-Vegetarian,PCOS,Anemia
+60+,175,71,23.183673469387756,2,Light,Student,Urban,Vegetarian,Heavy Flow,Diabetes
+60+,158,89,35.65133792661432,3,Moderate,Athlete,Rural,Vegan,Heavy Flow,Diabetes
+46-60,155,71,29.552549427679498,1,No Activity,Student,Urban,Non-Vegetarian,PCOS,No Issues
+46-60,149,61,27.476239809017613,2,Moderate,Homemaker,Coastal,Vegan,No Issues,Hypertension
+31-45,143,79,38.63269597535332,5,Heavy,Student,Coastal,Vegetarian,Heavy Flow,Hypertension
+46-60,168,82,29.053287981859416,3,Heavy,Self-Employed,Urban,Non-Vegetarian,Heavy Flow,No Issues
+31-45,160,46,17.968749999999996,3,Light,Student,Mountain,Vegan,No Issues,No Issues
+31-45,147,73,33.782220371141655,2,No Activity,Self-Employed,Rural,Non-Vegetarian,Heavy Flow,Diabetes
+31-45,147,75,34.70776065528253,1,No Activity,Self-Employed,Rural,Non-Vegetarian,Heavy Flow,Hypertension
+31-45,156,60,24.654832347140037,5,Heavy,Self-Employed,Coastal,Vegetarian,No Issues,No Issues
+31-45,176,85,27.44059917355372,1,Moderate,Homemaker,Mountain,Vegan,No Issues,No Issues
+18-30,157,62,25.153150229218223,4,Light,Student,Urban,Non-Vegetarian,Irregular,Anemia
+46-60,144,66,31.828703703703706,4,Moderate,Student,Rural,Non-Vegetarian,PCOS,No Issues
+31-45,157,62,25.153150229218223,2,Moderate,Homemaker,Mountain,Vegan,PCOS,No Issues
+60+,157,65,26.370238143535232,2,Moderate,Athlete,Rural,Non-Vegetarian,No Issues,Hypertension
+46-60,133,48,27.135507942789303,2,No Activity,Office Worker,Mountain,Non-Vegetarian,No Issues,Diabetes
+46-60,159,43,17.008820853605474,4,Heavy,Student,Mountain,Non-Vegetarian,Heavy Flow,Hypertension
+31-45,157,88,35.70124548663232,1,No Activity,Office Worker,Coastal,Vegan,Irregular,Diabetes
+18-30,166,52,18.870663376397157,1,Heavy,Homemaker,Rural,Vegan,Irregular,Anemia
+31-45,178,50,15.780835753061481,2,Light,Athlete,Urban,Vegan,No Issues,No Issues
+18-30,171,32,10.943538182688691,5,Light,Athlete,Coastal,Vegan,Heavy Flow,Anemia
+60+,157,55,22.313278429145196,1,Moderate,Athlete,Coastal,Vegetarian,Heavy Flow,Diabetes
+46-60,148,45,20.54419284149014,4,Heavy,Homemaker,Urban,Non-Vegetarian,PCOS,Hypertension
+60+,185,89,26.004382761139514,3,Heavy,Self-Employed,Coastal,Vegan,PCOS,Hypertension
+18-30,160,80,31.249999999999993,3,Heavy,Self-Employed,Mountain,Non-Vegetarian,Heavy Flow,Anemia
+18-30,160,54,21.093749999999996,3,Moderate,Office Worker,Mountain,Non-Vegetarian,PCOS,Diabetes
+60+,159,98,38.764289387286894,5,Moderate,Self-Employed,Rural,Vegetarian,No Issues,Anemia
+18-30,161,79,30.477219243084754,2,Light,Self-Employed,Rural,Vegan,Heavy Flow,Anemia
+60+,158,60,24.034609838166958,4,No Activity,Athlete,Urban,Vegan,PCOS,No Issues
+46-60,154,27,11.38471917692697,5,Heavy,Athlete,Rural,Non-Vegetarian,Irregular,Anemia
+60+,154,99,41.74397031539889,4,Heavy,Office Worker,Mountain,Vegan,Heavy Flow,No Issues
+46-60,159,44,17.404374826945133,4,No Activity,Student,Urban,Non-Vegetarian,Heavy Flow,No Issues
+60+,154,40,16.866250632484398,2,Heavy,Office Worker,Urban,Non-Vegetarian,Irregular,Hypertension
+18-30,152,80,34.62603878116344,3,Moderate,Office Worker,Rural,Vegetarian,No Issues,No Issues
+60+,161,101,38.96454612090582,2,Moderate,Homemaker,Mountain,Vegetarian,Irregular,No Issues
+18-30,157,85,34.484157572315304,5,Heavy,Homemaker,Urban,Vegetarian,Heavy Flow,Hypertension
+60+,175,73,23.836734693877553,5,Moderate,Office Worker,Mountain,Non-Vegetarian,No Issues,Anemia
+60+,133,73,41.268584996325394,5,Moderate,Office Worker,Mountain,Vegan,PCOS,Diabetes
+31-45,170,77,26.643598615916957,2,Heavy,Office Worker,Mountain,Vegetarian,PCOS,Diabetes
+18-30,172,76,25.689561925365066,4,Light,Self-Employed,Rural,Vegan,PCOS,Diabetes
+31-45,139,69,35.71243724444905,4,No Activity,Homemaker,Coastal,Vegetarian,Heavy Flow,Anemia
+18-30,156,66,27.12031558185404,1,Moderate,Office Worker,Coastal,Vegetarian,Irregular,No Issues
+31-45,156,64,26.298487836949374,5,Light,Athlete,Urban,Non-Vegetarian,No Issues,Diabetes
+46-60,145,53,25.20808561236623,4,Moderate,Athlete,Mountain,Vegetarian,PCOS,Anemia
+60+,152,60,25.969529085872576,1,Moderate,Self-Employed,Rural,Vegetarian,No Issues,No Issues
+18-30,148,39,17.804967129291455,4,No Activity,Self-Employed,Mountain,Non-Vegetarian,Heavy Flow,Hypertension
+18-30,177,63,20.109164033323754,5,Moderate,Student,Mountain,Vegan,PCOS,Diabetes
+60+,169,50,17.506389832288786,3,No Activity,Student,Rural,Vegetarian,Heavy Flow,No Issues
+18-30,172,48,16.224986479177936,5,No Activity,Student,Coastal,Non-Vegetarian,Irregular,Diabetes
+18-30,167,67,24.023808670084982,2,No Activity,Self-Employed,Mountain,Vegetarian,Heavy Flow,Diabetes
+31-45,148,85,38.805697589481376,4,Light,Self-Employed,Mountain,Non-Vegetarian,Heavy Flow,Diabetes
+18-30,154,78,32.889188733344575,4,Heavy,Self-Employed,Coastal,Vegan,Irregular,No Issues
+46-60,164,41,15.243902439024392,2,Light,Athlete,Rural,Vegan,No Issues,Anemia
+46-60,147,50,23.138507103521682,2,Heavy,Self-Employed,Urban,Non-Vegetarian,Irregular,No Issues
+60+,167,79,28.326580372189753,3,Heavy,Athlete,Coastal,Non-Vegetarian,Irregular,Diabetes
+18-30,157,50,20.28479857195018,4,No Activity,Student,Urban,Non-Vegetarian,Heavy Flow,No Issues
+60+,156,61,25.06574621959237,4,Moderate,Student,Urban,Vegan,No Issues,Hypertension
